@@ -235,7 +235,7 @@ section{
 }
 
 .home .content p{
-   font-size: 1.7rem;
+   font-size: 1.8rem;
    line-height: 2;
    padding:1rem 0;
 }
@@ -397,9 +397,6 @@ section{
    gap:1.5rem;
    align-items: flex-start;
 }
-
-
-
 
 .about .edu-exp .row{
    display: flex;
@@ -659,6 +656,14 @@ section{
 
    .contact form .flex .box{
       width: 100%;
+   }
+
+}
+
+@media (min-width:850px){
+
+   .about .biography p{
+      max-width: 75%;
    }
 
 }
