@@ -240,6 +240,10 @@ section{
    padding:1rem 0;
 }
 
+.about .biography {
+   margin-bottom: 8rem;
+}
+
 .about .biography p{
    margin:2rem auto;
    max-width: 70rem;
@@ -276,7 +280,7 @@ section{
    text-align: center;
 }
 
-.about .skills{
+/*.about .skills{
    margin:3rem 0;
 }
 
@@ -337,7 +341,7 @@ section{
 
 .about .skills .progress .bar:nth-child(9) h3{
    width: 70%;
-}
+}*/
 
 .about .edu-exp .column {
    flex-direction: column;
